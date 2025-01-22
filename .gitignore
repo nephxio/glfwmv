@@ -2,6 +2,10 @@
 build
 build-*
 
+# Bin folders/Int folders
+[Bb]in/
+[Bb]in-int/
+
 # Visual Studio clutter
 _ReSharper*
 *.sdf
